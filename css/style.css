@@ -1341,9 +1341,12 @@ footer {
   position: relative;
   display: inline-block;
   top: 100px;
+  left: 20%;
   padding: 100px 70px;
   padding-bottom: 100px;
   width: 100%;
+  max-width: 500px;
+  color: #fff;
 }
 
 .intro_title, .intro_title_work {
